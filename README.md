@@ -1,5 +1,11 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FtbTQ2aHBneHZla2ZoaXlwanIwZXppNjk2ZGhhcDVidm5iazEwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="1000" />
+</p>
+
+
+
 ### 💫 About Me:
- <br><br>🔭 I’m currently working on **Analog & Mixed-Signal IC design projects** (OTA, StrongARM Comparator, Sigma-Delta ADC, Bandgap Reference).  <br>👯 I’m looking to collaborate on **circuit design and signal processing projects** that push the limits of low-power, high-performance systems.  <br>🤝 I’m looking for help with **analog layout techniques and tape-out level design practices**.  <br>🌱 I’m currently learning **advanced analog IC design, Verilog for AMS, and layout considerations**.  <br>💬 Ask me about **OTA design, comparators, ADCs, and bridging analog with digital signal processing**.  <br>⚡ Fun fact: I see **analog circuits as art** — balancing speed, power, and precision feels like solving a puzzle every time.  <br>
+ 🔭 I’m currently working on **Analog & Mixed-Signal IC design projects** (OTA, StrongARM Comparator, Sigma-Delta ADC, Bandgap Reference).  <br>👯 I’m looking to collaborate on **circuit design and signal processing projects** that push the limits of low-power, high-performance systems.  <br>🤝 I’m looking for help with **analog layout techniques and tape-out level design practices**.  <br>🌱 I’m currently learning **advanced analog IC design, Verilog for AMS, and layout considerations**.  <br>💬 Ask me about **OTA design, comparators, ADCs, and bridging analog with digital signal processing**.  <br>⚡ Fun fact: I see **analog circuits as art** — balancing speed, power, and precision feels like solving a puzzle every time.  <br>
 
 
 ### 🌐 Socials:
