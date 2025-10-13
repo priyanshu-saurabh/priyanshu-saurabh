@@ -9,7 +9,7 @@
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshusaurabh) 
+
 
 ### 💻 Tech Stack:
 ![CMOS](https://img.shields.io/badge/CMOS-9b59b6?style=flat-square&logo=semanticscholar&logoColor=white)
